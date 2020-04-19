@@ -1,0 +1,13 @@
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HUD.dll
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\opencv_ffmpeg330_64.dll
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\opencv_world330.dll
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HEIC2JPG.exe.config
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HEIC2JPG.exe.manifest
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HEIC2JPG.application
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HEIC2JPG.exe
+E:\work\HEIC2JPG\HEIC2JPG\bin\Debug\HEIC2JPG.pdb
+E:\work\HEIC2JPG\HEIC2JPG\obj\Debug\HEIC2JPG.csprojAssemblyReference.cache
+E:\work\HEIC2JPG\HEIC2JPG\obj\Debug\HEIC2JPG.exe.manifest
+E:\work\HEIC2JPG\HEIC2JPG\obj\Debug\HEIC2JPG.application
+E:\work\HEIC2JPG\HEIC2JPG\obj\Debug\HEIC2JPG.exe
+E:\work\HEIC2JPG\HEIC2JPG\obj\Debug\HEIC2JPG.pdb

@@ -1,0 +1,5 @@
+C:\Users\TMajier\Documents\Visual Studio 2013\Projects\HEICTest\HEICTest\bin\x86\Debug\HEICTest.exe.config
+C:\Users\TMajier\Documents\Visual Studio 2013\Projects\HEICTest\HEICTest\bin\x86\Debug\HEICTest.exe
+C:\Users\TMajier\Documents\Visual Studio 2013\Projects\HEICTest\HEICTest\bin\x86\Debug\HEICTest.pdb
+C:\Users\TMajier\Documents\Visual Studio 2013\Projects\HEICTest\HEICTest\obj\x86\Debug\HEICTest.exe
+C:\Users\TMajier\Documents\Visual Studio 2013\Projects\HEICTest\HEICTest\obj\x86\Debug\HEICTest.pdb
